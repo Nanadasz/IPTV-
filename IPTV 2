@@ -1,0 +1,220 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/g7fktB1/venustv-dream-works.png", DREAMWORKS
+https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1  tvg-name="Sony Pix" tvg-id="SonyPix.in" tvg-logo="https://i.imgur.com/XvZArCU.png",Sony Pix
+http://iptvtree.net:8080/live/Jonsno/jv5DR53f7EG3Ajvx65/49539.ts
+
+#EXTINF:-1 tvg-id="starmovieshd.in" tvg-name="Star Movies HD IN" tvg-logo="",Star Movies HD IN
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136629
+
+#EXTINF:-1 tvg-id="StarMoviesIndia.in" tvg-logo="https://i.imgur.com/AJbFTSr.png",Star Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e95c72a41b5ea9957b07facd95542410&key=a5e0de041ca2766754a37952b3468eb2
+http://iptv12k.com:35461/17501083101/524668/2289
+
+#EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES SELECT" tvg-logo="https://i.ibb.co/4jctxxs/str.png",STAR MOVIES SELECT
+http://humiptv.live:8080//live/500757885/3356646354/98843.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo=",Zee Cafe IN
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136588
+
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo=",Kpop
+http://srv1.zcast.com.br:1935/kpoptv/kpoptv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo=",Kpop
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo=",Kpop
+http://ye23.win/iptv/sbs5.1.php?id=S20
+
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo=",Arirang Radio
+http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo=",Arirang Radio
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo=",Arirang Radio
+http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo=",Arirang World
+http://ye23.win/iptv/korea2021.php?id=arirang_1
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo=",Arirang World
+http://ye23.win/iptv/korea2021.php?id=arirang_2
+
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo="http://img.imbc.com/commons/2018/image/main/mbc-logo.png",MBC 
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo="MBC
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo="MBC
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo="MBC
+http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo="MBC
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo="Mnet
+http://106.246.182.11:9981/stream/channelid/62
+
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo=",HALLMARK MOVIES & MYSTERIES HD
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2897.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo=",HALLMARK HD
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2898.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo=",HALLMARK DRAMA
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2899.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo=",SONY-MOVIE-CHANNEL
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2994.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo=",CINEMAXX MORE MAXX
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2954.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo=",CINEMAX THRILLERMAX HD
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2955.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo=",CINEMAX OUTER MAX
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2956.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo=",CINEMAX MOVIEMAX
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2957.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo=",CINEMAX EAST
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2958.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo=",CINEMAX ACTION MAX EAST
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2959.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo=",Paramount Network
+http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/14839
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo=",HBO
+http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/2336
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo=",HBO 2
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2896.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo=",HBO 2
+http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/5844
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo=",HBO Zone
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2891.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo=",HBO Zone
+http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/6328
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo=",HBO Signature
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2892.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo=",HBO Signature
+http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/6305
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo=",HBO Family
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2894.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo=",HBO Family
+http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/760
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo=",HBO Comedy
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2895.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo=",HBO Comedy
+http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/2335
+
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo=",HBO+
+http://meumd.com:80/Denise01/denise001/109544
+
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo=",HBO+
+http://meumd.com:80/Denise01/denise001/109543
+
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo=",HBO+
+http://meumd.com:80/Denise01/denise001/109542
+
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBOPLUS.png",HBO PLUS HD
+http://megaott.cx:900/live/1504419863/3B7B8B28/376189.m3u8
+
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBOWEST.png",HBO WEST HD
+http://megaott.cx:900/live/1504419863/3B7B8B28/376185.m3u8
+
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",HBO 2 HD
+http://megaott.cx:900/live/1504419863/3B7B8B28/376184.m3u8
+
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",Hollywood Movies
+http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161
+
+
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",FOXLIFE
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/3005.ts
+
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",FOX29
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/3006.ts
+
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",FOX-Life
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/3007.ts
+
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",ION TV
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2878.ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png"
+INVESTIGATION DISCOVERY HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2879.ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",INVESTIGATION DISCOVERY FHD
+Http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2880.tscinemax-west
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",cinemax-west
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/3015.ts
+
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",FXX
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2905.ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",FXM
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2906.ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",FX HD
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2907.ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",DISNEY XD
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2937.ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",DISNEY JNR
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2938.ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",DISNEY CHANNEL HD
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2939.ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",DESTINATION AMERICA
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2944.ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",CRIME AND INVESTIGATION
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2945.ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",USA NETWORK
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2790.ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",UNIVISION TDN
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2791.ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",UNIVISION
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2792.ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",Universal Premiere
+http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/291223
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",Universal KIDS HD
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2793.ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",Universal HD
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2794.ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",STARZ KIDS & FAMILY
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2814.ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",STARZ IN BLACK
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2815.ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",STARZ ENCORE WESTERNS
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2816.ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",STARZ ENCORE
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2817.ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",STARZ EDGE
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2818.ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",FOX CRIME PT
+http://meumd.com:80/Denise01/denise001/126096
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",STARZ COMEDY
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2819.ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",STARZ
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2820.ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",SPIKE/PARAMOUNT
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2824.ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",SMITHSONIAN CHANNEL
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2825.ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",SHOWTIME SHOWCASE
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2826.ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",LIFETIME MOVIES
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2875.ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",LIFETIME
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2876.ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",ION TV
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2878.ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",INVESTIGATION DISCOVERY HD
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2879.ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",INVESTIGATION DISCOVERY FHD
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2880.ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",SHOWTIME HD
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2827.ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",SHOWTIME EXTREME
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2828.ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",SHOWTIME http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2829.ts
