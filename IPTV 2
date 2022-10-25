@@ -123,104 +123,144 @@ http://meumd.com:80/Denise01/denise001/109543
 #EXTINF:-1 tvg-id="" tvg-name="Zee Cafe IN" tvg-logo=",HBO+
 http://meumd.com:80/Denise01/denise001/109542
 
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBOPLUS.png",HBO PLUS HD
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBOPLUS.png",HBO PLUS HD
 http://megaott.cx:900/live/1504419863/3B7B8B28/376189.m3u8
 
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBOWEST.png",HBO WEST HD
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBOWEST.png",HBO WEST HD
 http://megaott.cx:900/live/1504419863/3B7B8B28/376185.m3u8
 
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",HBO 2 HD
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",HBO 2 HD
 http://megaott.cx:900/live/1504419863/3B7B8B28/376184.m3u8
 
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",Hollywood Movies
+#EXTINF:-1 tvg-logo="",Hollywood Movies
 http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161
 
-
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",FOXLIFE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Fox-Life.png",FOXLIFE
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/3005.ts
 
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",FOX29
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",FOX29
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/3006.ts
 
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",FOX-Life
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Fox-Life.pngg",FOX-Life
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/3007.ts
 
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",ION TV
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",ION TV
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2878.ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png"
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png"
 INVESTIGATION DISCOVERY HD,http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2879.ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",INVESTIGATION DISCOVERY FHD
+
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",INVESTIGATION DISCOVERY FHD
 Http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2880.tscinemax-west
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",cinemax-west
+
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",cinemax-west
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/3015.ts
 
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",FXX
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",FXX
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2905.ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",FXM
+
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",FXM
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2906.ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",FX HD
+
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",FX HD
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2907.ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",DISNEY XD
+
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",DISNEY XD
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2937.ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",DISNEY JNR
+
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",DISNEY JNR
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2938.ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",DISNEY CHANNEL HD
+
+#EXTINF:- tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",DISNEY CHANNEL HD
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2939.ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",DESTINATION AMERICA
+
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",DESTINATION AMERICA
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2944.ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",CRIME AND INVESTIGATION
+
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",CRIME AND INVESTIGATION
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2945.ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",USA NETWORK
+
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",USA NETWORK
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2790.ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",UNIVISION TDN
+
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",UNIVISION TDN
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2791.ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",UNIVISION
+
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",UNIVISION
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2792.ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",Universal Premiere
+
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",Universal Premiere
 http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/291223
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",Universal KIDS HD
+
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",Universal KIDS HD
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2793.ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",Universal HD
+
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",Universal HD
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2794.ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",STARZ KIDS & FAMILY
+
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",STARZ KIDS & FAMILY
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2814.ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",STARZ IN BLACK
+
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",STARZ IN BLACK
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2815.ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",STARZ ENCORE WESTERNS
+
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",STARZ ENCORE WESTERNS
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2816.ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",STARZ ENCORE
+
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",STARZ ENCORE
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2817.ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",STARZ EDGE
+
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",STARZ EDGE
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2818.ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",FOX CRIME PT
+
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",FOX CRIME PT
 http://meumd.com:80/Denise01/denise001/126096
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",STARZ COMEDY
+
+#EXTINF:-1tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",STARZ COMEDY
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2819.ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",STARZ
+
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",STARZ
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2820.ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",SPIKE/PARAMOUNT
+
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",SPIKE/PARAMOUNT
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2824.ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",SMITHSONIAN CHANNEL
+
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",SMITHSONIAN CHANNEL
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2825.ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",SHOWTIME SHOWCASE
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Showtime_Showcase.svg/1200px-Showtime_Showcase.svg.png",SHOWTIME SHOWCASE
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2826.ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",LIFETIME MOVIES
+
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",LIFETIME MOVIES
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2875.ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",LIFETIME
+
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",LIFETIME
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2876.ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",ION TV
+
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",ION TV
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2878.ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",INVESTIGATION DISCOVERY HD
+
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",INVESTIGATION DISCOVERY HD
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2879.ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",INVESTIGATION DISCOVERY FHD
+
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",INVESTIGATION DISCOVERY FHD
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2880.ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",SHOWTIME HD
+
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",SHOWTIME HD
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2827.ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",SHOWTIME EXTREME
+
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",SHOWTIME EXTREME
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2828.ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",SHOWTIME 
+
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",SHOWTIME 
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2829.ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",HBO XTREME
+
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",HBO XTREME
 http://meumd.com:80/Denise01/denise001/142906
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",HBO XTREME
+
+#EXTINF:-1 tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",HBO XTREME
 http://meumd.com:80/Denise01/denise001/109547
+#EXTINF:-1 tvg-logo="" tvg-id="",
+#EXTINF:-1 tvg-logo="" tvg-id="",
+#EXTINF:-1 tvg-logo="" tvg-id="",
+#EXTINF:-1 tvg-logo="" tvg-id="",
+#EXTINF:-1 tvg-logo="" tvg-id="",
