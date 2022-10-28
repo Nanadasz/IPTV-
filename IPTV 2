@@ -269,17 +269,20 @@ http://meumd.com:80/Denise01/denise001/192673
 http://meumd.com:80/Denise01/denise001/192671
 #EXTINF:-1 tvg-logo="" tvg-id="",CINE SKY 1
 http://meumd.com:80/Denise01/denise001/192669
-#EXTINF:-1 tvg-logo="" tvg-id="",SKY ACTION
-http://casaip.tv:8000/3357ystocy/2oyelh8zpu/416748
-#EXTINF:-1 tvg-logo="" tvg-id="",SKY CINEMA ACTION MEN
-http://casaip.tv:8000/3357ystocy/2oyelh8zpu/416749
-#EXTINF:-1 tvg-logo="" tvg-id="",SKY CINEMA ACTION MEN
-http://casaip.tv:8000/3357ystocy/2oyelh8zpu/416792
-#EXTINF:-1 tvg-logo="" tvg-id="",SKY CINEMA Action
-http://casaip.tv:8000/3357ystocy/2oyelh8zpu/416750
-#EXTINF:-1 tvg-logo="" tvg-id="",SKY CINEMA Action
-http://casaip.tv:8000/3357ystocy/2oyelh8zpu/416776
-#EXTINF:-1 tvg-logo="" tvg-id="",SKY CINEMA Action
-http://casaip.tv:8000/3357ystocy/2oyelh8zpu/416797
+#EXTINF:-1 tvg-logo="" tvg-id="",SKY SHOWCASE
+http://tvpanel.one:80/den9179/611carc/548879
+#EXTINF:-1 tvg-logo="" tvg-id="",SKY WITNESS
+http://tvpanel.one:80/den9179/611carc/548880
+#EXTINF:-1 tvg-logo="" tvg-id="",SKYATLANTIC
+http://tvpanel.one:80/den9179/611carc/548881
+#EXTINF:-1 tvg-logo="" tvg-id="",SKY MAX
+http://tvpanel.one:80/den9179/611carc/548882
+#EXTINF:-1 tvg-logo="" tvg-id="",SKY COMEDY
+http://tvpanel.one:80/den9179/611carc/548883
+#EXTINF:-1 tvg-logo="" tvg-id="",SKY ARTS
+http://tvpanel.one:80/den9179/611carc/548884
+#EXTINF:-1 tvg-logo="" tvg-id="",SKY REPLAY
+http://tvpanel.one:80/den9179/611carc/548885
+
 
 #EXTINF:-1 tvg-logo="" tvg-id="",
