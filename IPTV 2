@@ -263,10 +263,11 @@ http://meumd.com:80/Denise01/denise001/109547
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="",KBS Story
 https://www.nettvpro.live/en/play.php?aid=10353
-#EXTINF:-1 tvg-logo="" tvg-id="",
-#EXTINF:-1 tvg-logo="" tvg-id="",
-#EXTINF:-1 tvg-logo="" tvg-id="",
-#EXTINF:-1 tvg-logo="" tvg-id="",
-#EXTINF:-1 tvg-logo="" tvg-id="",
-#EXTINF:-1 tvg-logo="" tvg-id="",
+#EXTINF:-1 tvg-logo="" tvg-id="",CINE SKY 5
+http://meumd.com:80/Denise01/denise001/192673
+#EXTINF:-1 tvg-logo="" tvg-id="",CINE SKY 3
+http://meumd.com:80/Denise01/denise001/192671
+#EXTINF:-1 tvg-logo="" tvg-id="",CINE SKY 1
+http://meumd.com:80/Denise01/denise001/192669
+
 #EXTINF:-1 tvg-logo="" tvg-id="",
