@@ -122,7 +122,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=66a233a633db6f5137a7b4b1e27bed10:f2e7dbef2f0baf924d93f3e0c1a598fa
-#EXTINF:-1 tvg-id="118" tvg-name="GO SHOP 118" group-title="ASTRO" tvg-logo="https://iili.io/1Nqo9n.png",118 Go Shop RUUMA 
+#EXTINF:-1 tvg-id="118" tvg-name="GO SHOP 118" group-title="" tvg-logo="https://iili.io/1Nqo9n.png",118 Go Shop RUUMA 
 https://agsplayback01.astro.com.my/CH1/master_GOSHOP_04.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -132,7 +132,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1005/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6458dac9edfe282465c7b0cd1ca0e010:9181b8041ae036047abde8a674d31b90
-#EXTINF:-1 tvg-id="120" tvg-name="GO SHOP GAAYA" group-title="ASTRO" tvg-logo="https://iili.io/1Nqo9n.png",120 Go Shop GAAYA 
+#EXTINF:-1 tvg-id="120" tvg-name="GO SHOP GAAYA" group-title="" tvg-logo="https://iili.io/1Nqo9n.png",120 Go Shop GAAYA 
 https://agsplayback01.astro.com.my/CH3/master_GOSHOP3_04.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png", TVS
