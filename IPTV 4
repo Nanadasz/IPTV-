@@ -114,19 +114,24 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=18fe29fdda1b4ca306b4d8f08786fd10&key=47f6fa3ca0462021aa1c0c09253ece58
-#EXTINF:-1 tvg-id="116" ch-number="ColorsHD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Colors_v1.png",116 Colors HD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=18fe29fdda1b4ca306b4d8f08786fd10:47f6fa3ca0462021aa1c0c09253ece58
+#EXTINF:-1 tvg-id="116" tvg-name="Colors Hindi HD" group-title="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/365_144.png",116 Colors Hindi 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=66a233a633db6f5137a7b4b1e27bed10&key=f2e7dbef2f0baf924d93f3e0c1a598fa
-#EXTINF:-1 tvg-id="118" ch-number="118"tvg-logo="https://linear-poster.astro.com.my/prod/logo/GO_Shop_v1.png",118 GO Shop RUUMA
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2501/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=66a233a633db6f5137a7b4b1e27bed10:f2e7dbef2f0baf924d93f3e0c1a598fa
+#EXTINF:-1 tvg-id="118" tvg-name="GO SHOP 118" group-title="ASTRO" tvg-logo="https://iili.io/1Nqo9n.png",118 Go Shop RUUMA 
+https://agsplayback01.astro.com.my/CH1/master_GOSHOP_04.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6458dac9edfe282465c7b0cd1ca0e010&key=9181b8041ae036047abde8a674d31b90
-#EXTINF:-1 tvg-id="120" ch-number="120" tvg-logo="https://linear-poster.astro.com.my/prod/logo/GO_Shop_v1.png",120 GO Shop GAAYA
-https://linearjitp-playback.astro.com.my/dash-wv/linear/507/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=ba4df7f7152c90246234445b6243f610:e8117952182caf38bab3a6db439328a7
+#EXTINF:-1 tvg-id="303" ch-number="119" group-title="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/403_144.png",119 GO Shop  
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1005/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6458dac9edfe282465c7b0cd1ca0e010:9181b8041ae036047abde8a674d31b90
+#EXTINF:-1 tvg-id="120" tvg-name="GO SHOP GAAYA" group-title="ASTRO" tvg-logo="https://iili.io/1Nqo9n.png",120 Go Shop GAAYA 
+https://agsplayback01.astro.com.my/CH3/master_GOSHOP3_04.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png", TVS
 https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
@@ -193,10 +198,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=505f7a8803b542e78941a6bfe40d2910&key=166626a62cf1b356c298b58842c60661
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd
 
-#EXTINF:-1 tvg-id="222" ch-number="222" logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160723588691kg.png",222 Colors Tamil HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=4e1f571523456cba3d3c5901c43b8d10&key=589b204b1b97b4bf4f4cbe0129fa67e6
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=4e1f571523456cba3d3c5901c43b8d10:589b204b1b97b4bf4f4cbe0129fa67e6
+#EXTINF:-1 tvg-id="222" tvg-name="Colors Tamil HD" group-title="" tvg-logo="https://iili.io/1NBdJ9.png",222 Colors Tamil 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default.mpd
 
 #EXTINF:-1 tvg-id="223" ch-number="223" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/297_144.png",223 Zee Tamil HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -219,8 +224,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ba4df7f7152c90246234445b6243f610&key=e8117952182caf38bab3a6db439328a7
-#EXTINF:-1 tvg-id="303" ch-number="303" tvg-logo="https://linear-poster.astro.com.my/prod/logo/GO_Shop_v1.png",GO Shop 303
+#KODIPROP:inputstream.adaptive.license_key=ba4df7f7152c90246234445b6243f610:e8117952182caf38bab3a6db439328a7
+#EXTINF:-1 tvg-id="303" ch-number="303" group-title="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/403_144.png",GO Shop 303 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1005/default_ott.mpd
 
 #EXTINF:-1 tvg-id="304" ch-number="AstroXiaoTaiYang" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Astro_XTY_2019.png",304 Astro Xiao Tai Yang
