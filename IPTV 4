@@ -120,7 +120,7 @@ https://links.aqfadtv.xyz/rania.mpd
 https://m3u-editor.com/serve/fab2e470-f140-11ec-831c-d533cac61260/586132000
 https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 
-#EXTINF:-1 tvg-id="AstroRania" group-title="🇨" ch-number="112" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png",112 Astro Rania
+#EXTINF:-1 tvg-id="AstroRania" group-title="" ch-number="112" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png",112 Astro Rania
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8a4b24805e598acd00fae76918b3f610:1807230578255fcd79e1279b13ae69d8
 #http://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
