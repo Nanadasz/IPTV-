@@ -213,17 +213,15 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default.mpd
 #EXTINF:-1 tvg-id="222" tvg-name="Colors Tamil HD" group-title="" tvg-logo="https://iili.io/1NBdJ9.png",222 Colors Tamil 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default.mpd
 
-
-
-#EXTINF:-1 tvg-id="223" ch-number="223" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/297_144.png",223 Zee Tamil HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d00a8536425163d5274fdf086001e110&key=7261ce40695be3526cf0e8e224546723
+#KODIPROP:inputstream.adaptive.license_key=d00a8536425163d5274fdf086001e110:7261ce40695be3526cf0e8e224546723
+#EXTINF:-1 tvg-id="223" tvg-name="Zee Tamil HD" group-title="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/297_144.png",223 Zee Tamil 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd
 
+#EXTINF:-1 tvg-id="251" tvg-name="BollyOne HD" group-title="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/178_144.png",251 BollyOne 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cb6c0c34cd3b22efd444edfd21393c10&key=84750873ded43774b06b43b67717a708
-#EXTINF:-1 tvg-ID="251" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/bollyone.png",251 BOLLYONE HD 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=cb6c0c34cd3b22efd444edfd21393c10:84750873ded43774b06b43b67717a708
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default.mpd
 
 #EXTINF:-1 tvg-id="241" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/177_144.png",241 ABO Thangathirai HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
