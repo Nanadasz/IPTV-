@@ -443,6 +443,11 @@ https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mp
 #KODIPROP:inputstream.adaptive.license_key=2d8d9b7ed94fad6e56f1642504605b10:cf881ed230797c106f8e6ac843d797f3
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_ott.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bb5e8d918097e067ab1bc7e3a9e68410:dbda57d3de69f5e4b78ff2cc73d8a51a
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488593_ico.png" group-title="", Hits Movies HD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kpsboy/LOGO-KPSBOY/main/ASTRO/hbosignature.png" group-title="", HBO SIGNATURE HD
