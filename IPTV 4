@@ -277,19 +277,19 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_ott.mpd
 #EXTINF:-1 tvg-id="320" tvg-name="TVBS Asia HD" group-title="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVBS_v1.png",320 TVBS Asia 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/402/default_ott.mpd
 
-#EXTINF:-1 tvg-id="321" ch-number="321" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/CCM_new_Logo.png/revision/latest?cb=20190603053700",321 CCM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1283d2fab34ca094ab1cfd1238476a10&key=edf87dc4bdc835c6daffdd213c8029df
-https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=1283d2fab34ca094ab1cfd1238476a10:edf87dc4bdc835c6daffdd213c8029df
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/CCM_v1.png" group-title="", CCM
+http://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd
 
 #EXTINF:-1 tvg-id="325" ch-number="325" tvg-logo="https://i.postimg.cc/MHNpH3St/Phoenix-Chinese-Channel.png",325 Phoenix Chinese Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=f13760c949c41e64763717e96ec46910&key=2a49f6a488f99fe914d5897e27f20c39
 https://linearjitp-playback.astro.com.my/dash-wv/linear/400/default_ott.mpd
 
-#EXTINF:-1 tvg-id="326" ch-number="326" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/43_144.png",326 Phoenix Info News HD
+#EXTINF:-1 tvg-id="PhoenixInfoNews" ch-number="326" group-title="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/43_144.png",326 Phoenix Info News HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ca05d01bbb4bbfa624a34a9d97fca910&key=9e0dee9bf3aa066182f701cec38be004
+#KODIPROP:inputstream.adaptive.license_key=ca05d01bbb4bbfa624a34a9d97fca910:9e0dee9bf3aa066182f701cec38be004
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5009/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -320,24 +320,24 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5078/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/161_144.png", KBS World HD
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png" group-title="", ONE HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ba8842e119ee61ac7c613e1e6a1e3e10&key=46ed2370a8cc4cef2665e03e110f9455
-#EXTINF:-1 tvg-id="393" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png",ONE
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=ba8842e119ee61ac7c613e1e6a1e3e10:46ed2370a8cc4cef2665e03e110f9455
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
+
+#EXTINF:-1 tvg-id="K-Plus" tvg-logo="http://www.kplus-asia.com/img/title/logo.png" group-title="", K-Plus HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ddd9708a62b9e2eb44448dd1a6841310:0b248e71fef0c27988fa10049b32f309
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/395.png" group-title="M", tvN HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1269a58571f4528d585fdccbf8fa510:615d2dcc24a8fa6a7342185a6fcb1615
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ddd9708a62b9e2eb44448dd1a6841310&key=0b248e71fef0c27988fa10049b32f309
-#EXTINF:-1 tvg-id="396" tvg-logo="http://linear-poster.astro.com.my/prod/logo/K-Plus_v1.png",K PLUS
-http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=c1269a58571f4528d585fdccbf8fa510&key=615d2dcc24a8fa6a7342185a6fcb1615
-#EXTINF:-1 tvg-id="395" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvN_2021.png",TVN
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=4667aa2bb9d080471f43e03d40868c10&key=116db8fda0a62355cf24c6acb6aab03d
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tvn%20movies.png",tvN Movies HD
+#KODIPROP:inputstream.adaptive.license_key=4667aa2bb9d080471f43e03d40868c10:116db8fda0a62355cf24c6acb6aab03d
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tvn%20movies.png" group-title="", tvN Movies HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4eddab2fdec002c141131" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/newkmovies_logo_dark.png", NEW K.MOVIES
