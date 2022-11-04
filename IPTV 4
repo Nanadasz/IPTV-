@@ -173,32 +173,13 @@ https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 #https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default.mpd
 
+#EXTINF:-1 tvg-id="201" tvg-name="Astro Vaanavil HD" group-title="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/5_144.png",201 Astro Vaanavil ALT
+https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39e518b58aff65d51ddd05d1597b1e10&key=e0fb4b6bf638b44756b6363ffb3db659
 #EXTINF:-1 tvg-id="202" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",202 Astro Vinmeen 
 https://m3u-editor.com/serve/68db7a60-0450-11ed-bd29-433a8f8eca6e/597635863 
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b48c95c2e844ea2b59e27fb42fe4b510:1168d5b1fcb20ad3973b101f2775c9a9
-#EXTINF:-1 tvg-id="201" tvg-name="Astro Vaanavil HD" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/5_144.png",201 Astro Vaanavil 
-#https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_09.m3u8
-#https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default.mpd
-
-#EXTINF:-1 tvg-id="201" tvg-name="Astro Vaanavil HD" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/5_144.png",201 Astro Vaanavil ALT
-https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=18fe29fdda1b4ca306b4d8f08786fd10:47f6fa3ca0462021aa1c0c09253ece58
-#EXTINF:-1 tvg-id="116" tvg-name="Colors Hindi HD" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/365_144.png",116 Colors Hindi 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e1f571523456cba3d3c5901c43b8d10:589b204b1b97b4bf4f4cbe0129fa67e6
-#EXTINF:-1 tvg-id="222" tvg-name="Colors Tamil HD" group-title="INDIAN" tvg-logo="https://iili.io/1NBdJ9.png",222 Colors Tamil 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default.mpd
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=86926949493ad3767442c338b3140810:cbccf2086e836ad13b783f6166f888fd
@@ -222,11 +203,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1110/default_ott.mpd
 #EXTINF:-1 tvg-id="214" tvg-name="Adithya" group-title="" tvg-logo="https://user-images.githubusercontent.com/85995579/130947065-c352cfdd-f4eb-47e3-aec3-806e76cec321.png",214 Adithya 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_ott.mpd
 
-#EXTINF:-1 tvg-id="214" ch-number="214" group-title="" tvg-logo="https://user-images.githubusercontent.com/85995579/130947065-c352cfdd-f4eb-47e3-aec3-806e76cec321.png",214 Adithiya
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e43b89a409027b38c471e4088cf76210&key=2ded2169b89a80a1179f501fa3b6c081
-https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_ott.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=505f7a8803b542e78941a6bfe40d2910:166626a62cf1b356c298b58842c60661
 #EXTINF:-1 tvg-id="" tvg-name="Star Vijay HD" group-title="" tvg-logo="https://iili.io/1Nqyf2.png",221 Star Vijay 
@@ -236,6 +212,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=4e1f571523456cba3d3c5901c43b8d10:589b204b1b97b4bf4f4cbe0129fa67e6
 #EXTINF:-1 tvg-id="222" tvg-name="Colors Tamil HD" group-title="" tvg-logo="https://iili.io/1NBdJ9.png",222 Colors Tamil 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default.mpd
+
+
 
 #EXTINF:-1 tvg-id="223" ch-number="223" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/297_144.png",223 Zee Tamil HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
