@@ -40,21 +40,8 @@ http://51.79.82.208:16008
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b65e3d6ee807842a109821fba96b510:7827b9cf05fda4c3b77f48dea0acfa48
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/Astro_Oasis.png/revision/latest?cb=20180622071546" group-title="", ASTRO OASIS 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7b65e3d6ee807842a109821fba96b510:7827b9cf05fda4c3b77f48dea0acfa48
 #EXTINF:-1 tvg-id="106" tvg-name="Astro Oasis HD" group-title="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/Astro_Oasis.png/revision/latest?cb=20180622071546", ASTRO OASIS
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7b65e3d6ee807842a109821fba96b510:7827b9cf05fda4c3b77f48dea0acfa48
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png",ASTRO OASIS HD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png",ASTRO OASIS HD 1
-http://51.79.82.208:16009
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" tvg-id="107" tvg-name="107", Astro Warna HD
 https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670
@@ -150,11 +137,15 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png", TV OKEY
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8
 
-#EXTINF:-1 tvg-id="148" tvg-name="8TV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148_300.png" group-title="",8TV
-http://51.79.82.208:16005
+#EXTINF:-1 tvg-id="" tvg-chno="111" tvg-name="8TV" radio="false" catchup="default" group-title="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png", 8TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5976b9eba78f7921f19169bb9f612110:10f086eb4d9548925e1caf2374ae9236
+https://linearjitp-playback.astro.com.my/dash-wv/linear/911/default.mpd
 
-#EXTINF:-1 tvg-id="149" tvg-name="TV9" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149_300.png" group-title="",TV9
-http://51.79.82.208:16006
+#EXTINF:-1 tvg-name="TV9" tvg-logo="https://i.imgur.com/smKCnNj.png" group-title="", TV9
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7836ea26a6954661124ee9536a9eb710:e51bbff4595c2736122548c165bfce31
+https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/Drama_Sangat_%28TV_on-screen%29.png" group-title="",DRAMA SANGAT
 https://stream.zeehanzgadget.com/dramasangat
