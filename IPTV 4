@@ -229,7 +229,7 @@ http://iptv12k.com:35461/17501083101/524668/709
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2403/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FTvi5XK.png" group-title="",ASTRO QUAN JIA HD
-https://stream.zeehanzgadget.com/quanjia
+http://198.16.64.10:8278/Quanjia/playlist.m3u8?tid=MFFF3293542732935427&ct=19226&tsum=27c80d1bed9942e20443c39f523846fb
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=064b474a4851760b3ac81a7e89437410:18eea3fcbfb8313f46d1a2c45a573e02
