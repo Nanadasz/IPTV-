@@ -38,20 +38,11 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",ASTRO PRIMA HD 
 http://51.79.82.208:16008
 
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7b65e3d6ee807842a109821fba96b510:7827b9cf05fda4c3b77f48dea0acfa48
-#EXTINF:-1 tvg-id="106" tvg-name="Astro Oasis HD" group-title="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/Astro_Oasis.png/revision/latest?cb=20180622071546", ASTRO OASIS
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" tvg-id="107" tvg-name="107", Astro Warna HD
-https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=40bb94cdb1c90f6cc15073d9a500c810:264de3f18e64770e92a2d29f2b177701
-#EXTINF:-1 tvg-name="astro warna" tvg-logo="https://i.imgur.com/JCn7Yd0.png" group-title="", ASTRO WARNA 
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-https://aqfadtv.xyz/live/warna/index.mpd
-# http://172.96.160.37:9138/stream/live/c20424.m3u8?idstream=warna
+https://stream.zeehanzgadget.com/warna
 
 #EXTINF:-1 tvg-name="astro citra" tvg-logo="https://i.imgur.com/Vmdbbo5.png" group-title="", ASTRO CITRA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -70,11 +61,6 @@ http://king-tv.online:8080//live/gisle@/FDPWGufCmY/372542.ts
 #KODIPROP:inputstream.adaptive.license_key=930792941220753511b6c2efc5317b10:13acecaf90b59fb0c94115b04be71847
 #EXTINF:-1 tvg-id="111" group-title="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/403_144.png",GO Shop 111 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2508/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=217e77e40cf4ec1269ea1e278eb2c610&key=b2a2333955933b7dc3d71e7685971f71
-#EXTINF:-1 tvg-id="113" ch-number="AstroAura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Astro_Aura_NEW.png",ASTRO AURA HD
-http://axcestv.vip:8080/@cariketengan/s7EzfxHxsg/460
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=217e77e40cf4ec1269ea1e278eb2c610:b2a2333955933b7dc3d71e7685971f71
