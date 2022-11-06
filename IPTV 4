@@ -298,12 +298,14 @@ http://iptv12k.com:35461/live/test167/12345/705.m3u8
 #EXTINF:-1 tvg-id="352" ch-number="352" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109", 352 Astro AOD
 http://iptv12k.com:35461/live/test167/12345/704.m3u8
 
-#EXTINF:-1 tvg-id="354" ch-number="354" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109", 354 Astro AOD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d24b39ffd2824eeb3e03eb5da918ad10&key=7ca1866a4eace300a65998d1fc94ac28
-https://linearjitp-playback.astro.com.my/dash-wv/linear/212/default_ott.mpd
+#EXTINF:-1 tvg-id="353" ch-number="353" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109", 353 Astro AOD
+http://iptv12k.com:35461/live/test167/12345/703.m3u8
 
-#EXTINF:-1 tvg-id="352" ch-number="35" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109", 354 Astro AOD
+#EXTINF:-1 tvg-id="354" ch-number="354" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109", 354 Astro AOD
+http://iptv12k.com:35461/live/test167/12345/702.m3u8
+
+#EXTINF:-1 tvg-id="355" ch-number="355" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109", 355 Astro AOD
+http://iptv12k.com:35461/live/test167/12345/701.m3u8
 
 #EXTINF:-1 tvg-id="OPPA MANIA"ch-number="100" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OppaMania_V1.png",100 OPPA MANIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
