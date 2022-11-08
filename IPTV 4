@@ -856,6 +856,9 @@ https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png" group-title="SPORTS", ASTRO SUPERSPORT HD
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" tvg-id="",ASTRO SUPERSPORTS 
+http://198.16.64.10:8278/Assp1/playlist.m3u8?tid=MCDC9658624196586241&ct=19225&tsum=f9632aea1944f3d01b5d30a0dd0f1962
+
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" tvg-id="",ASTRO SUPERSPORTS 2
 http://ys-users.com:8080/promo5/5thpromotion/425439
 
