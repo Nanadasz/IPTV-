@@ -7,8 +7,7 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/all.xml.gz"
 EXTM3U url-tvg="https://bit.ly/aqfadtvepg"
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=389baefb18db84b8f62b1bddfda5c810:db6410d5d69b60fb66208f61cd4bef44
+
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="", TV1 HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 
@@ -16,8 +15,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=2
 
 #EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103_300.png" group-title="",TV3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RrIVJJY.png" group-title="", ASTRO RIA 
