@@ -13,7 +13,7 @@ EXTM3U url-tvg="https://bit.ly/aqfadtvepg"
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="MALAYSIA🇲🇾", TV1 HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 
-#EXTINF:-1 tvg-id="tv2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="MALAYSIA🇲", TV2 HD
+#EXTINF:-1 tvg-id="tv2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="MALAYSIA🇲🇾", TV2 HD
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=2
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -106,7 +106,7 @@ https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/1NqAMl.png" group-title="MALAYSIA🇲🇾", AWESOME TV
 https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png", TV OKEY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png"group-title="MALAYSIA🇲🇾", TV OKEY
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-chno="111" tvg-name="8TV" radio="false" catchup="default" group-title="MALAYSIA🇲🇾" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png", 8TV
@@ -119,13 +119,13 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live08.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv9/
 https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/Drama_Sangat_%28TV_on-screen%29.png" group-title="MALAYSIA🇲",DRAMA SANGAT
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/Drama_Sangat_%28TV_on-screen%29.png" group-title="MALAYSIA🇲🇾",DRAMA SANGAT
 https://stream.zeehanzgadget.com/dramasangat
 
-#EXTINF:-1 tvg-id="147" tvg-name="NTV7" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/147_300.png" group-title="",DIDIKTV KPM
+#EXTINF:-1 tvg-id="147" tvg-name="NTV7" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/147_300.png" group-title="MALAYSIA🇲🇾",DIDIKTV KPM
 http://51.79.82.208:16004
 
-#EXTINF:-1  tvg-id="106" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814",TV6
+#EXTINF:-1  tvg-id="106" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814" group-title="MALAYSIA🇲🇾",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 
@@ -148,7 +148,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_primary.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default_primary.mpd
 
 
-#EXTINF:-1 tvg-id="213" ch-number="213" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/51_144.png",213 Chutti TV
+#EXTINF:-1 tvg-id="213" ch-number="213" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/51_144.png" group-title="INDIA🇮🇳",213 Chutti TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=19e79967a0f1ead8bb7bc453bbc3d110&key=592722a6819d1226921e68d689262497
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1110/default_ott.mpd
@@ -173,12 +173,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2311
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd
 
-#EXTINF:-1 tvg-id="251" tvg-name="BollyOne HD" group-title="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/178_144.png",251 BollyOne 
+#EXTINF:-1 tvg-id="251" tvg-name="BollyOne HD group-title="INDIA🇮🇳" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/178_144.png",251 BollyOne 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cb6c0c34cd3b22efd444edfd21393c10:84750873ded43774b06b43b67717a708
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default.mpd
 
-#EXTINF:-1 tvg-id="241" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/177_144.png",241 ABO Thangathirai HD
+#EXTINF:-1 tvg-id="241" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/177_144.png" group-title="INDIA🇮🇳",241 ABO Thangathirai HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=31ff25ad46df61d3352a03de5f085f10&key=2daee966c9736498a05505174b266bde
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
@@ -213,7 +213,7 @@ http://iptv12k.com:35461/17501083101/524668/709
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2019dd03e75adfc2f58ec94eff26d810:79dc64991db24e051b3cb7b39e59e8c3
-#EXTINF:-1 tvg-id="307" tvg-name="Astro Shuang Xing HD" tvg-logo="https://iili.io/1NBuOg.png",Astro Shuang Xing HD 双星台 CH307
+#EXTINF:-1 tvg-id="307" tvg-name="Astro Shuang Xing HD" tvg-logo="https://iili.io/1NBuOg.png" group-title="CHINA🇨🇳",Astro Shuang Xing HD 双星台 CH307
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2403/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -228,10 +228,10 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=428c1a9941e2570c3e7e5b4973f55010:d354bf92d1de1297e92fc2bf14568719
-#EXTINF:-1 tvg-id="310" tvg-name="TVB Jade" group-title="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png",310 TVB Jade
+#EXTINF:-1 tvg-id="310" tvg-name="TVB Jade" group-title="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="CHINA🇨🇳",310 TVB Jade
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2600/default_ott.mpd
 
-#EXTINF:-1 tvg-id="311" ch-number="311" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109", 311 Astro AOD HD
+#EXTINF:-1 tvg-id="311" ch-number="311" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109" group-title="CHINA🇨🇳", 311 Astro AOD HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d8cc914692987662d5beeed2a84ecf10&key=1ad7af3abe78cece01e7a772dd88a09b
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_ott.mpd
@@ -379,19 +379,19 @@ https://asrazunifi.ddns.net:8443/live.m3u8
 #EXTINF:-1 tvg-ID="MusicTV.id" group-title="KIDS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png", MUSIC TV
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
-#EXTINF:-1  tvg-name="Arirang" tvg-id="ArirangTV" tvg-logo="https://i.imgur.com/LMHgfWB.png"group-title="KOREA🇰🇷",Arirang
+#EXTINF:-1  tvg-name="Arirang" tvg-id="ArirangTV" tvg-logo="https://i.imgur.com/LMHgfWB.png" group-title="KOREA🇰🇷",Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tJ8GRqi.png"group-title="KOREA🇰🇷", ALLTHEKPOP
 http://198.16.64.10:8278/allthekpop_korea/playlist.m3u8?tid=MDDD8149394181493941&ct=19225&tsum=9f1d9df0da62cc0a30d0e5357356e012
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/F4aby5WN1Rw/maxresdefault.jpg"group-title="KOREA🇰🇷", THE KPOP
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/F4aby5WN1Rw/maxresdefault.jpg" group-title="KOREA🇰🇷", THE KPOP
 http://198.16.64.10:8278/jthekpop_korea/playlist.m3u8?tid=MCCC8163723981637239&ct=19225&tsum=53c895b4be81be369500a38192516c6b
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/kr/MBC.kr.png"group-title="KOREA🇰🇷", MBC
+#EXTINF:-1 tvg-logo="https://static.epg.best/kr/MBC.kr.png" group-title="KOREA🇰🇷", MBC
 http://198.16.64.10:8278/mbc_korea/playlist.m3u8?tid=MEAE9573382995733829&ct=19225&tsum=a0b7c980377ecbf15c1c9b8ae93b82aa
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dVWMFjgB/IMG-20210527-185940.jpg"group-title="KOREA🇰🇷",  KPOP TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dVWMFjgB/IMG-20210527-185940.jpg" group-title="KOREA🇰🇷",  KPOP TV
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -528,7 +528,7 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USAJ4300010Y0" tvg-name="Dove Channel" tvg-logo="https://i.ibb.co/2PmscZM/87590-w-450-224.png" group-title="MOVIES",Dove TV
 https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5fd115bab7ef8d002dcf181d" tvg-id="5e20b730f2f8d5003d739db7-5fd115bab7ef8d002dcf181d" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/24hrfreemovies_logo_dark.png",24 Hour Free Movies
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5fd115bab7ef8d002dcf181d" tvg-id="5e20b730f2f8d5003d739db7-5fd115bab7ef8d002dcf181d" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/24hrfreemovies_logo_dark.png" group-title="MOVIES",24 Hour Free Movies
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex2/145.m3u8?ads.plex_token=y6L36Ehg1cz2yxkXPc-u&ads.channel_Id=5fd115bab7ef8d002dcf181d&ads.did=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.partnerChannel=muxip.24hourmovies&ads.dnt=0&ads.app_bundle=com.plexapp.android&ads.app_name=plex&ads.app_domain=app.plex.tv&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.channel_name=24hourmovies&ads.us_privacy=1---&ads.gdpr=0&ads.consent=0
 
 #EXTINF:-1 tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/Moviesphere-Free_SamsungAsset_Logo_1000x1000_C_White.png" group-title="MOVIES",Moviesphere Free
