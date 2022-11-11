@@ -590,7 +590,7 @@ https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=32732dedac78e80dd81d0af789e5fe10&key=a69d2840788bf0298f1db62c5943b2a1
-#EXTINF:-1 tvg-id="514" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Sky_News_HD_v1.png",SKY NEWS
+#EXTINF:-1 tvg-id="514" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Sky_News_HD_v1.png" group-title="NEWS",SKY NEWS
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2102/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -671,7 +671,7 @@ https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-ID="DiscoveryChannelSoutheastAsia.us" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_462.png",DISCOVERY CHANNEL HD
+#EXTINF:-1 tvg-ID="DiscoveryChannelSoutheastAsia.us" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_462.png" group-title="DOCUMENTARIES",DISCOVERY CHANNEL HD
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 
 
@@ -797,7 +797,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-ID="TLCSoutheastAsia.us"tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_248.jpg "group-title="NEWS",TLC
+#EXTINF:-1 tvg-ID="TLCSoutheastAsia.us"tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_248.jpg" group-title="NEWS",TLC
 https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -827,7 +827,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e2a4758854ddf83f1e8f465a3d3d8910&key=a464e1f2f904d40f3235a57304e72d78
-#EXTINF:-1 tvg-id="800" tvg-logo="http://linear-poster.astro.com.my/prod/logo/eGG_v1.png",eGG NETWORK
+#EXTINF:-1 tvg-id="800" tvg-logo="http://linear-poster.astro.com.my/prod/logo/eGG_v1.png" group-title="SPORTS",eGG NETWORK
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2602/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -878,7 +878,7 @@ https://webudi.openhd.lol/lb/premium43/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=01cde7c31b1a3ea2aa7a6f579a0f4610&key=710f5ebe6bb2d50978ef0e5aa5fc69d4
-#EXTINF: -1 tvg-id="816" ch-number="816" tvg-logo="https://scontent.fkul12-1.fna.fbcdn.net/v/t1.18169-1/22308769_1563483717031662_1870733297113111065_n.jpg?stp=dst-jpg_p148x148&_nc_cat=106&ccb=1-7&_nc_sid=1eb0c7&_nc_ohc=HqaTXHYb_x8AX83oP6A&_nc_ht=scontent.fkul12-1.fna&oh=00_AT-Tl7RMTpFdLf8npY8YBQR99aFBOwYjvJGgifzCvA27vA&oe=62E137A6",816 SPOTV 
+#EXTINF: -1 tvg-id="816" ch-number="816" tvg-logo="https://scontent.fkul12-1.fna.fbcdn.net/v/t1.18169-1/22308769_1563483717031662_1870733297113111065_n.jpg?stp=dst-jpg_p148x148&_nc_cat=106&ccb=1-7&_nc_sid=1eb0c7&_nc_ohc=HqaTXHYb_x8AX83oP6A&_nc_ht=scontent.fkul12-1.fna&oh=00_AT-Tl7RMTpFdLf8npY8YBQR99aFBOwYjvJGgifzCvA27vA&oe=62E137A6" group-title="SPORTS",816 SPOTV 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
 
 
