@@ -61,7 +61,7 @@ https://4fl0.short.gy/FzTv/sensasi.ts
 #EXTINF:-1 tvg-id="111" group-title="GO SHOP" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/403_144.png",GO Shop 111 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2508/default_ott.mpd
 
-EXTINF:-1 tvg-id="AstroRania" group-title="MALAYSIA🇲🇾" ch-number="112" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png",112 Astro Rania
+#EXTINF:-1 tvg-id="AstroRania" group-title="MALAYSIA🇲🇾" ch-number="112" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png",112 Astro Rania
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/608/
 #http://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
