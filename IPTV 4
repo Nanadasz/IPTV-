@@ -221,6 +221,15 @@ https://stream.zeehanzgadget.com/aec.mpd
 #EXTINF:-1 tvg-id="307" tvg-name="Astro Shuang Xing HD" tvg-logo="https://iili.io/1NBuOg.png" group-title="CHINA🇨🇳",Astro Shuang Xing HD 双星台 CH307
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2403/default_ott.mpd
 
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="CHINA🇨🇳",Astro双星 ShuangXing
+https://stream.zeehanzgadget.com/shuangxing
+
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="CHINA🇨🇳",Astro双星 ShuangXing
+http://50.7.220.74:8278/Shuangxing/playlist.m3u8?tid=m02000000000010638087&ct=17957&tsum=16035284df542c2d54efaee5e47bc535
+
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="CHINA🇨🇳",Astro双星 ShuangXing
+http://198.16.64.10:8278/Shuangxing/playlist.m3u8?tid=MB0B7558160375581603&ct=19226&tsum=1625699c9d4f1dfe61991065455cb256
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2507
 #EXTINF:-1 tvg-id="308" ch-number="AstroQuanJiaHD" group-title="CHINA🇨🇳" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png",Astro Quan Jia HD
