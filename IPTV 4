@@ -230,7 +230,7 @@ http://50.7.220.74:8278/Shuangxing/playlist.m3u8?tid=m02000000000010638087&ct=17
 #EXTINF:-1 tvg-id="AstroShuangXing" ch-number="307" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Astro_Shuang_Xing_%282015%29.png/revision/latest?cb=20190106060728",307 Astro Shuang Xing
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2403
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/2403/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2403/default_ott.mpd
 http://50.7.220.74:8278/Shuangxing/playlist.m3u8?tid=m02000000000010638087&ct=17957&tsum=16035284df542c2d54efaee5e47bc535
 
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="CHINA🇨🇳",Astro双星 ShuangXing
