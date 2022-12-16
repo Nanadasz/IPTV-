@@ -284,5 +284,21 @@ http://tvpanel.one:80/den9179/611carc/548884
 #EXTINF:-1 tvg-logo="" tvg-id="",SKY REPLAY
 http://tvpanel.one:80/den9179/611carc/548885
 
+#EXTINF:-1 tvg-logo="" tvg-id="",HBO
+http://line.premiumpowers.net:80/Manuel/1234567/45549
+
+#EXTINF:-1 tvg-logo="" tvg-id="",HBO WEST
+http://line.premiumpowers.net:80/Manuel/1234567/91884
+#EXTINF:-1 tvg-logo="" tvg-id="",HBO 2
+http://line.premiumpowers.net:80/Manuel/1234567/45552
+#EXTINF:-1 tvg-logo="" tvg-id="",HBO ZONE
+http://line.premiumpowers.net:80/Manuel/1234567/45546
+#EXTINF:-1 tvg-logo="" tvg-id="",HBO COMEDY
+http://line.premiumpowers.net:80/Manuel/1234567/45551
+#EXTINF:-1 tvg-logo="" tvg-id="",HBO FAMILY
+http://line.premiumpowers.net:80/Manuel/1234567/45550
+#EXTINF:-1 tvg-logo="" tvg-id="",HBO SIGNATURE
+http://line.premiumpowers.net:80/Manuel/1234567/45547
+
 
 #EXTINF:-1 tvg-logo="" tvg-id="",
