@@ -52,15 +52,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="MALAYSIA🇲🇾" ch-number="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",107 Astro Warna
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2402
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-https://aqfadtv.xyz/live/warna/index.mpd
-
-#EXTINF:-1 tvg-id="AstroWarna" group-title="MALAYSIA🇲🇾" ch-number="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",107 Astro Warna (bekup)
-http://51.79.82.208:16010
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 http://51.81.208.129:35461/80203091402/213445/5075
