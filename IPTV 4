@@ -822,11 +822,11 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_ott.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Paramount.png" group-title="ENTERTAINMENTS", PARAMOUNT NETWORK
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_ott.mpd
 
-#EXTINF:-1 tvg-id="2473" tvg-name="Blue Ant Entertainment" group-title="Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/ROCK_entertainment_UHD.png",Rock Entertainment
+#EXTINF:-1 tvg-id="2473" tvg-name="Blue Ant Entertainment" group-title="ENTERTAINMENTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/ROCK_entertainment_UHD.png",Rock Entertainment
 http://210.210.155.35/session/727b7aa8-6703-11ec-9eaf-b82a72d63267/dr9445/h/h16/01.m3u8
 http://rr1.dens.tv/h/h16/01.m3u8
 
-#EXTINF:-1 tvg-id="2474" tvg-name="Blue Ant Extreme" group-title="Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/RockExtreme.png",Rock Extreme
+#EXTINF:-1 tvg-id="2474" tvg-name="Blue Ant Extreme" group-title="ENTERTAINMENTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/RockExtreme.png",Rock Extreme
 http://210.210.155.35/session/c41b46b8-6703-11ec-9eaf-b82a72d63267/dr9445/h/h15/01.m3u8
 http://rr1.dens.tv/h/h15/01.m3u8
 
