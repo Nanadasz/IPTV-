@@ -629,25 +629,16 @@ https://mytime-tcl.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/09cb1Xp/unnamed.png" group-title="MOVIES",CineLife
 https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8?source:iptvmate.net
 
-#EXTINF:-1 channel-id="pluto-5efbd29e4aa26700076c0d06" tvg-id="5efbd29e4aa26700076c0d06" tvg-chno="550" tvg-logo="https://images.pluto.tv/channels/5efbd29e4aa26700076c0d06/colorLogoPNG.png" group-title="MOVIES",CSI
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efbd29e4aa26700076c0d06/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/1200px-ION_Plus_logo.svg.png" group-title="MOVIES",Ion Plus
-https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/ideas/images/7/71/ION_Television_Studios_logo.png/revision/latest?cb=20190206005433" tvg-id="" group-title="MOVIES",Ion
-https://scripps-ion-1-us.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/thrill.png" group-title="MOVIES", THRILL
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
-http://210.210.155.35/session/5fa607b4-c313-11e8-ac17-b82a72d63267/qwr9ew/s/s34/01.m3u8
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/thrill_150x150px.jpg",Thrill
+https://nyanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5025
-#EXTINF:-1 tvg-id="501" tvg-logo="https://i.imgur.com/rJEGwxL.png" group-title="NEWS", ASTRO AWANI
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd
+#EXTINF:-1 tvg-id="AstroAwani" tvg-name="ASTRO AWANI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="NEWS",ASTRO AWANI
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
+
+#EXTINF:-1 tvg-id="AstroAwani" tvg-name="Astro Awani" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/84_144.png" tvg-chno="59" channel-id="59" group-title="NEWS",Astro Awani
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
 
 #EXTINF:-1 tvg-id="502" tvg-name="BERNAMA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" group-title="NEWS",BERNAMA
 https://raw.githubusercontent.com/AqFad2811/BernamaHDYT/main/youtube.m3u8
@@ -655,11 +646,10 @@ https://raw.githubusercontent.com/AqFad2811/BernamaHDYT/main/youtube.m3u8
 #EXTINF:-1 tvg-id="CGTN" group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
 
-#EXTINF:-1 tvg-id="511" group-title="NEWS" tvg-logo="https://i.imgur.com/1IU5HJ8.png",CNN (MY)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2503
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default_primary.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="NEWS" tvg-id="511" tvg-name="511", CNN HD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default_ott.mpd
 
 #EXTINF:-1 tvg-id="CNN.id" group-title="NEWS" tvg-logo="https://i.imgur.com/1IU5HJ8.png",CNN (ID)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -671,8 +661,10 @@ https://av-live-cdn.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternati
 #EXTINF:-1 tvg-id="BBCWorldNewsHD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BBC_World_News_v1.png" group-title="NEWS", BBC WORLD NEWS
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default_primary.mpd
 
-#EXTINF:-1 tvg-id="513" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AlJazeera_v1.png" group-title="NEWS",AL JAZEERA
-https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/374_144.png" group-title="NEWS" tvg-id="513" tvg-name="513", Al Jazeera English HD
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 
 #EXTINF:-1 tvg-id="SkyNews" group-title="NEWS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png" ch-number="514",514 Sky News
